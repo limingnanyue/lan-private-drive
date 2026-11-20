@@ -1,0 +1,17 @@
+node_modules/
+data/
+release/
+__pycache__/
+build/
+LanDrive.spec
+*.part
+*.sqlite*
+*.log
+initial-admin.txt
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+/*.docx
+/docs/superpowers/
