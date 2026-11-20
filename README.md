@@ -6,7 +6,32 @@ Windows 便携程序和服务端更新清单可在 [GitHub Releases](https://git
 
 ## 界面演示
 
-以下截图来自 Windows 客户端 v1.2.0，网盘中的文件和记录为演示数据。
+截图中的账号、文件和传输记录均为演示数据。
+
+### Web 端
+
+<details open>
+<summary>公共网盘</summary>
+
+![Web 公共网盘的文件列表与上传、下载权限入口](docs/screenshots/web-public-drive.png)
+
+</details>
+
+<details>
+<summary>传输记录</summary>
+
+![Web 传输队列的上传记录与删除、清空操作](docs/screenshots/web-history.png)
+
+</details>
+
+<details>
+<summary>管理员后台</summary>
+
+![Web 管理员后台的用户角色与存储配额](docs/screenshots/web-admin.png)
+
+</details>
+
+### Windows 客户端 v1.2.0
 
 <details open>
 <summary>公共网盘</summary>
